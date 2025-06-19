@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Getting Familiar with Tables</title>
+</head>
+
+<body>
+    <h1> Vanilla Cupcake Recipe </h1>
+    <small><a href="https://preppykitchen.com/moist
+            -vanilla-cupcake-recipe/"> Source (By Preppy Kitchen)</a></small><br>
+
+    <br>
+    <h2>Ingredients</h2>
+    <strong> For the Cupcake</strong>
+    <ul>
+        <li>1 2/3 cup all-purpose flour (213g) </li>
+        <li>1 cup granulated sugar (200g)</li>
+        <li>1/4 tsp baking soda</li>
+        <li>1 1/2 tsp baking powder</li>
+        <li>1/4 tsp kosher salt</li>
+        <li>3/4 cup unsalted butter (170g, melted)</li>
+        <li>3 egg whites room temperature</li>
+        <li>1 tbsp vanilla extract (15mL)</li>
+        <li>1/2 cup sour cream (120mL, room temperature)</li>
+        <li>1/2 cup whole milk (120mL, warm)</li>
+    </ul>
+
+    <br>
+    <strong> For the Vanilla Buttercream</strong>
+    <ul>
+        <li>2 lb confectioners sugar 900g, sifted
+        <li>1 lb unsalted butter 450g, room temperature</li>
+        <li>1 tsp vanilla extract</li>
+        <li>1 tbsp heavy cream</li>
+        <li>1 pinch kosher salt</li>
+        <li>1 tsp whole milk</li>
+    </ul>
+
+    <br>
+    <h2>Instructions</h2>
+    <table border="1">
+
+        <thead>
+            <tr>
+                <th>For the Cupcake</th>
+                <th>For the Vanilla Buttercream</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>1.) Preheat oven to 350 degrees F.
+                    Place cupcake papers<br> in a cupcake pan. </td>
+                <td>1.) In a stand mixer fitted with a paddle attachment, cream<br> the room temperature butter.
+                    Add in the confectioners sugar<br> in two batches. Add salt, milk, cream and vanilla. Mix until
+                    fluffy.
+                </td>
+            </tr>
+
+            <tr>
+                <td>2.) Sift the flour, sugar salt, baking
+                    soda and powder into a large<br> bowl, and whisk together </td>
+                <td>2.) Transfer to a piping bag. </td>
+            </tr>
+
+            <tr>
+                <td>3.) Separate the eggs. You can use the yolks for a custard or a<br> batch French buttercream. </td>
+                <td>3.) Pipe a large dollop of buttercream on each cupcake. </td>
+            </tr>
+
+            <tr>
+                <td>4.) In another bowl, whisk together the wet ingredients until <br>combined. (The batter may be
+                    clumpy, do not worry!)</td>
+            </tr>
+
+            <tr>
+                <td>5.) Add the wet ingredients to the dry ingredients. Mix until<br> combined. </td>
+            </tr>
+
+            <tr>
+                <td>6.) Distribute the batter evenly into cupcake papers, filling<br> each paper with about 2/3 the way
+                    up. </td>
+            </tr>
+
+            <tr>
+                <td>7.) Bake for about 18 minutes or until centers are springy to <br>the touch.
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
