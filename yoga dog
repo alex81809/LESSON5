@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: white;
+            font-size: 35px;
+        }
+
+        body {
+            background-color: #d59db1
+        }
+
+        text {
+            font-family: Georgia;
+        }
+
+        .soup {
+            width: 50%;
+            border-radius: 10%;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+
+        }
+    </style>
+</head>
+
+<body>
+    <h1>yoga dog</h1>
+    <img src="f5649b22-dc85-4c15-8bca-ec328a1081c5.jpg" ; class="soup" ;>
+</body>
+
+</html>
